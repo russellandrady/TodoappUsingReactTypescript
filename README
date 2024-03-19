@@ -1,2 +1,2 @@
-This is a todo app created by using this tutorial, https://www.youtube.com/watch?v=LoYbN6qoQHA&list=WL&index=4&t=1185s
+This is a Node with React todo app created by using this tutorial, https://www.youtube.com/watch?v=LoYbN6qoQHA&list=WL&index=4&t=1185s
 But not with js. With typescript. And to initiate the project I used vite by using npm create vite@latest command. 
